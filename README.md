@@ -5,4 +5,4 @@ cifar10 课程项目1
 
 ##CNN使用Adam 优化器在不同学习率的对比
 
-![img](URL "cifar10-classfication/training_loss_comparison.png")
+![img](URL "cifar10-classfication\training_loss_comparison.png")
